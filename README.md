@@ -2,7 +2,7 @@
 Simulación de operación de entregas con drones y visualización con Streamlit.
 
 ## Objetivo del proyecto
-Modelar una operación de entregas con dos etapas (preparación y entrega), medir desempeño del sistema (colas, utilización, tiempos) y comparar escenarios de capacidad/demanda.
+Modelar una operación de entregas con dos etapas (preparación y entrega), medir el desempeño del sistema (colas, utilización, tiempos) y comparar escenarios de capacidad/demanda.
 
 ## Estructura
 - `dashboard.py`: dashboard interactivo en Streamlit.
